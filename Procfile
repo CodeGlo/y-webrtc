@@ -1,1 +1,1 @@
-web: PORT=4444 node ./bin/server.js
+web: node ./bin/server.js
